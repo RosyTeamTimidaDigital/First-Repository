@@ -1,0 +1,23 @@
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: rgb(86, 42, 190);
+    width: 100px;
+}
+h1{
+    font-size: xx-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p{
+    font-size: medium;
+    color: #000;
+    font: optional;
+}
+.contenedor{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 150px;
+    background-color: aquamarine;
+}
